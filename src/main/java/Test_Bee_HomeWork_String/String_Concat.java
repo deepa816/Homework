@@ -8,11 +8,11 @@ public class String_Concat {
 		
 		//String concatenation   
 		     
-		     String a1 ="Dilshad";
-		     String a2 ="Deepa";
+		     String a1 =  "Dilshad    ";
+		     String a2 =  "   Deepa";
 		     
 		     a1.concat(a2);// it will add Dilshad + Deepa
-		     System.out.println( a1.concat(a2));
+		     System.out.println( a1.concat   (a2));
 
 	}
 
