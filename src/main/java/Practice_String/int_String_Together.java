@@ -1,4 +1,4 @@
-package Test_Bee_HomeWork_String;
+package Practice_String;
 
 public class int_String_Together {
 
