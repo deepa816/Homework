@@ -27,7 +27,7 @@ public class Array_List {
 		 al4.add(studentFour);
 		 
 		 
-		//Iterator 
+		//Iterator //
 	      
 		   Iterator <Object> it = al4.iterator();
 		   
