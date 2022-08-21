@@ -59,6 +59,7 @@ public class MyPractice_Selenium {
 		driver.findElement(By.xpath("//input[@name='enter-name']")).sendKeys("Dilshad");
 		
 		Thread.sleep(6000);
+		
 		driver.findElement(By.xpath("//input[@id='confirmbtn']")).click();
 		driver.switchTo().alert().accept();
 		

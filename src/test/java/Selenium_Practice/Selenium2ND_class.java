@@ -15,8 +15,10 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class Selenium2ND_class {
 
-	
-	
+//Select Class -----------------------------------------------	
+//JavascriptExecutor	---------------------------------
+//Actions class ------------------------------------------------
+//assertion	---------------------------------------------------
 	public static void main(String[] args) throws InterruptedException {
 
 		WebDriverManager.chromedriver().setup();
